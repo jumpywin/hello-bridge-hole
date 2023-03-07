@@ -1,4 +1,4 @@
-package org.example.securitydemo.entity;
+package org.example.security.entity;
 
 import lombok.Getter;
 import lombok.Setter;

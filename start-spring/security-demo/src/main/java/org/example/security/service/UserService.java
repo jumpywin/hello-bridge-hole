@@ -1,8 +1,8 @@
-package org.example.securitydemo.service;
+package org.example.security.service;
 
 import jakarta.annotation.Resource;
 import lombok.extern.slf4j.Slf4j;
-import org.example.securitydemo.entity.UserRowMapper;
+import org.example.security.entity.UserRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

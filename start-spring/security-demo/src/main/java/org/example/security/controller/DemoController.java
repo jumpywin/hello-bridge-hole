@@ -1,4 +1,4 @@
-package org.example.securitydemo.controller;
+package org.example.security.controller;
 
 import org.springframework.security.access.annotation.Secured;
 import org.springframework.web.bind.annotation.GetMapping;

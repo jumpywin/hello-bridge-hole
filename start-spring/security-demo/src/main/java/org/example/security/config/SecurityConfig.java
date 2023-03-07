@@ -1,7 +1,7 @@
-package org.example.securitydemo.config;
+package org.example.security.config;
 
 import jakarta.annotation.Resource;
-import org.example.securitydemo.service.UserService;
+import org.example.security.service.UserService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;

@@ -20,5 +20,6 @@
     </properties>
     <modules>
         <module>security-demo</module>
+        <module>r2dbc-demo</module>
     </modules>
 </project>
